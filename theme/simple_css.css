@@ -1,0 +1,27 @@
+#broozmare-page {
+	color:#000000;
+	padding: 2px;
+	margin: 2px;
+	clear: both;
+}
+
+#broozmare-page a {
+	border:1px solid #D6D6D6;
+	background-color:#FFFFFF;
+	color:#707070;
+	padding: 3px;
+	margin: 2px;
+}
+
+#broozmare-page a:hover {
+	border:1px solid #D6D6D6;
+	background-color:#F7F7F7;
+	color:#333333;
+	padding: 3px;
+	margin: 2px;
+}
+
+#broozmare-page span.current {
+	padding: 3px;
+	margin: 2px;
+}

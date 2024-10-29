@@ -1,0 +1,59 @@
+#broozmare-page {
+	color:#000000;
+	font-family:Tahoma, "Times New Roman", Arial, sans-serif, serif;
+	font-size:12px;
+	padding: 2px;
+	margin: 2px;
+	clear: both;
+}
+
+#barnameha-roozmare {
+	background-color:#C6C6C6;
+	-moz-border-radius: 10px;
+	padding:5px;
+}
+
+#broozmare-page a {
+	border:1px solid #333333;
+	-moz-border-radius: 5px;
+	background-color:#FFFFFF;
+	color:#757575;
+	padding: 3px;
+	margin: 2px;
+}
+
+#broozmare-page a:hover {
+	border:1px solid #757575;
+	-moz-border-radius: 5px;
+	background-color:#FFFFFF;
+	color:#333333;
+	padding: 3px;
+	margin: 2px;
+}
+
+#broozmare-page span.current {
+	border:1px solid #333333;
+	-moz-border-radius: 5px;
+	background-color:#000000;
+	color:#FFFFFF;
+	padding: 3px;
+	margin: 2px;
+	font-weight:bold;
+}
+
+#broozmare-post {
+	border:#666666 1px solid;
+	margin-bottom:10px;
+	font-family:Tahoma, "Times New Roman", Arial, sans-serif, serif;
+	font-size:12px;
+}
+
+#broozmare-post .title{
+	background-image:url(gray_title_img.gif);
+	background-repeat:repeat-x;
+	padding:2px;
+}
+
+#broozmare-post .content{
+	padding:2px;
+}

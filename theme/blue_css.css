@@ -1,0 +1,47 @@
+#broozmare-page {
+	color:#000000;
+	padding: 2px;
+	margin: 2px;
+	clear: both;
+}
+
+#broozmare-page a {
+	border:1px dashed #9BD7F7;
+	background-color:#FFFFFF;
+	color:#06344D;
+	padding: 3px;
+	margin: 2px;
+}
+
+#broozmare-page a:hover {
+	border:1px dotted #9BD7F7;
+	background-color:#F1FAFE;
+	color:#1195DB;
+	padding: 3px;
+	margin: 2px;
+}
+
+#broozmare-page span.current {
+	padding: 3px;
+	margin: 2px;
+}
+
+#broozmare-post {
+	border:#9BD7F7 1px dashed;
+	margin-bottom:10px;
+}
+
+#broozmare-post .author{
+	font-weight:bold;
+	background-color:#DAF0FC;
+	padding:2px;
+}
+
+#broozmare-post .content{
+	padding:2px;
+}
+
+#broozmare-post .datetime{
+	background-color:#F1FAFE;
+	padding:2px;
+}

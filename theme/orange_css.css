@@ -1,0 +1,60 @@
+#barnameha-roozmare{
+	
+}
+
+#broozmare-page {
+	color:#000000;
+	padding: 2px;
+	margin: 2px;
+	clear: both;
+}
+
+#broozmare-page a {
+	border:1px solid #FF9900;
+	background-color:#FFFFFF;
+	color:#FF0000;
+	padding: 3px;
+	margin: 2px;
+}
+
+#broozmare-page a:hover {
+	border:1px solid #FF9900;
+	background-color:#FFFFFF;
+	color:#FF6600;
+	padding: 3px;
+	margin: 2px;
+}
+
+#broozmare-page span.current {
+	padding: 3px;
+	margin: 2px;
+	color:#FF0000;
+}
+
+#broozmare-post {
+	background-color:#FFFFFF;
+	border:#FF6600 1px solid;
+	margin-bottom:10px;
+}
+
+#broozmare-post .author{
+	font-weight:bold;
+	background-color:#FEEAE0;
+	padding:2px;
+	background-image:url(orange_title.gif);
+	background-repeat:repeat-y;
+	background-position:center;
+}
+
+#broozmare-post .content{
+	padding:2px;
+}
+
+#broozmare-post .datetime{
+	background-color:#F1FAFE;
+	padding:2px;
+	background-image:url(orange_footer.gif);
+	background-repeat:repeat-y;
+	background-position:center;
+	color:#FFFFFF;
+}
